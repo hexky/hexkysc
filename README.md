@@ -1,6 +1,6 @@
 # Created by hexky
 
-Roblox Anti-AFK Script yang berfungsi untuk mencegah *disconnect* karena tidak bergerak (idle) di game.
+A Roblox Anti-AFK Script designed to prevent *disconnects* caused by being idle (not moving) in-game.
 
 ### EXECUTE SCRIPT :
 ```lua
